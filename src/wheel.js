@@ -1,4 +1,4 @@
-var mousewheel = require('mousewheel')
+var mousewheel = require('ramitos-mousewheel')
 
 var nullLowestDeltaTimeout, lowestDelta
 var callbacks = {}

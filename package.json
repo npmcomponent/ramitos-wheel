@@ -1,0 +1,15 @@
+{
+  "name": "ramitos-wheel",
+  "description": "normalize mousewheel delta values",
+  "version": "0.0.1",
+  "keywords": [
+    "dom",
+    "wheel",
+    "mousewheel"
+  ],
+  "main": "src/wheel.js",
+  "dependencies": {
+    "ramitos-mousewheel": "git://github.com/npmcomponent/ramitos-mousewheel.git"
+  },
+  "license": "MIT"
+}
